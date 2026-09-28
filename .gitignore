@@ -1,0 +1,14 @@
+# .gitignore
+
+.gradle/
+.idea/
+*.iml
+local.properties
+/build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.log
